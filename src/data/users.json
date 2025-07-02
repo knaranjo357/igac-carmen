@@ -8,32 +8,11 @@
       "avatar": "MG"
     },
     {
-      "email": "administrador@igac.gov.co",
+      "email": "elcarmen@igac.gov.co",
       "password": "v1su4l1z4d0r",
       "role": "admin",
-      "name": "Administrador IGAC",
-      "avatar": "AI"
-    },
-    {
-      "email": "carlos.rodriguez@igac.gov.co",
-      "password": "r3c0n0c3d0r",
-      "role": "recognizer",
-      "name": "Carlos Rodríguez",
-      "avatar": "CR"
-    },
-    {
-      "email": "ana.martinez@igac.gov.co",
-      "password": "v13w3r123",
-      "role": "viewer",
-      "name": "Ana Martínez",
-      "avatar": "AM"
-    },
-    {
-      "email": "supervisor@igac.gov.co",
-      "password": "sup3rv1s0r",
-      "role": "admin",
-      "name": "Supervisor Carmen",
-      "avatar": "SC"
+      "name": "carmen chucuri IGAC",
+      "avatar": "CC"
     }
   ]
 }
